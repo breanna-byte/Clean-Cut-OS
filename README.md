@@ -1,4 +1,4 @@
-CLEAN & CUT OS — FREE EDITION
+CLEAN & CUT OS
 
 OPEN IT
 1. Double-click index.html.
